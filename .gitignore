@@ -337,29 +337,8 @@ ProjectSettings/PackageManagerSettings.asset
 Assets/Revelation Prot-Type/Scripts/PlayerMovement.cs
 Assets/Revelation Prot-Type/Sprites/Bellow-Ground/.DS_Store
 Assets/Revelation Prot-Type/.DS_Store
-Assets/Scenes.meta
-Assets/Scenes/SampleScene.unity
 .DS_Store
-Assets/Scenes/SampleScene.unity.meta
-ProjectSettings/AudioManager.asset
-ProjectSettings/boot.config
-ProjectSettings/ClusterInputManager.asset
-ProjectSettings/DynamicsManager.asset
-ProjectSettings/EditorBuildSettings.asset
-ProjectSettings/EditorSettings.asset
-ProjectSettings/GraphicsSettings.asset
-ProjectSettings/InputManager.asset
-ProjectSettings/MemorySettings.asset
-ProjectSettings/NavMeshAreas.asset
-ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json
-ProjectSettings/Physics2DSettings.asset
-ProjectSettings/PresetManager.asset
-ProjectSettings/ProjectSettings.asset
-ProjectSettings/ProjectVersion.txt
-ProjectSettings/QualitySettings.asset
-ProjectSettings/TagManager.asset
-ProjectSettings/TimeManager.asset
-ProjectSettings/UnityConnectSettings.asset
-ProjectSettings/VersionControlSettings.asset
-ProjectSettings/VFXManager.asset
-ProjectSettings/XRSettings.asset
+Assets/Revelation Prot-Type/Sprites/.DS_Store
+.DS_Store
+Assets/Revelation Prot-Type/Sprites/.DS_Store
+.DS_Store
